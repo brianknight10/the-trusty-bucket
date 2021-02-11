@@ -14,4 +14,4 @@ response = client.create_bucket(
     }
 )
 
-print('Created bucket', BUCKET_NAME, 'at', response['Location'])
+print('Created bucket', constants.BUCKET_NAME, 'at', response['Location'])
