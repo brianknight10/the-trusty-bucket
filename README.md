@@ -4,7 +4,7 @@ Source code and supporting scripts for The Trusty Bucket blog series.
 
 ### The Blog Series
 
-- The Basics ([1-basics](/1-basics))
+- [The Basics](https://blog.ippon.tech/the-trusty-bucket-introduction-and-basics/) ([1-basics](/1-basics))
 - ACLs ([2-acls](/2-acls))
 
 ### A Note on the Scripts

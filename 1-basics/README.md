@@ -1,6 +1,6 @@
 ## S3 Basics
 
-These scripts support the topics covered in the basics blog post.
+These scripts support the topics covered in the [basics blog post](https://blog.ippon.tech/the-trusty-bucket-introduction-and-basics/).
 
 ### Script List and Order
 
