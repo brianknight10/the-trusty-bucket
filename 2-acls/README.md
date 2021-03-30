@@ -1,6 +1,6 @@
 ## S3 ACLs
 
-These scripts support the topics covered in the ACLs blog post.
+These scripts support the topics covered in the [ACLs blog post](https://blog.ippon.tech/the-trusty-bucket-access-control-lists/).
 
 ### Script List and Order
 
